@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "unlimiteddragoneggs",
+  "version": "1.0.0",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Unlimited Dragon Eggs",
+  "description": "Get a dragon egg from every ender dragon. ",
   "authors": [
-    "Me!"
+    "Ido"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "ido.unlimiteddragoneggs.UnlimitedDragonEggs"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "unlimiteddragoneggs.mixins.json"
   ],
 
   "depends": {

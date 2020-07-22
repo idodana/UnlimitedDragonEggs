@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "ido.unlimiteddragoneggs.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"EnderDragonFightMixin"
+	],
+	"client": [],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
