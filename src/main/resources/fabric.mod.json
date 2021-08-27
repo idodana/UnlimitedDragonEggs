@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "unlimiteddragoneggs",
-	"version": "1.1.1",
+	"version": "1.2.1",
 	"name": "Unlimited Dragon Eggs",
 	"description": "Get a dragon egg from every ender dragon. ",
 	"authors": [
@@ -21,7 +21,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.7.4",
-		"minecraft": "1.16.x"
+		"minecraft": "1.17.1"
 	},
 	"suggests": {
 		"flamingo": "*"
